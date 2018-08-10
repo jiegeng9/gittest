@@ -2,5 +2,6 @@
 int main()
 {
 	std::cout << "hello word" << std::endl;
-	return 0;
+	std::cout << "oo";
+	return 0
 }
